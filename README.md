@@ -1,1 +1,6 @@
 # IT-145-Final-Project-Java-
+#Alondra Paulino Santos
+
+This project is a console-based Java application created as part of my final assignment for IT 145 – Foundations in Application Development. The application simulates a basic intake and reservation system for a fictional rescue organization called Grazioso Salvare, which trains dogs and monkeys for service work. The program allows users to add new animals, check their availability, reserve them by location, and display lists of all animals or only those available for deployment. All animal data is stored in memory using ArrayLists, and the application is fully navigated through a simple text-based menu.
+
+This was my first experience programming in Java, and through this project I learned the essential concepts of object-oriented programming. I built a class hierarchy using a shared superclass for rescue animals and separate subclasses for dogs and monkeys. I also learned how to use constructors, getters and setters, and how to store and manage objects in collections like ArrayLists. Additionally, I became comfortable using the Scanner class to handle user input and applying control structures like loops and if-else statements to build interactive, menu-driven functionality. This project helped me understand how to structure Java programs and apply basic programming logic to solve real-world problems.
